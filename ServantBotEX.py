@@ -50,4 +50,4 @@ async def move(ctx, arg):
         print ("Something bugged. Maybe a wrong move that doesnt exist?")
 
 
-bot.run('OTQzNjEwMzI2NjU2NjM5MDA5.Yg1jmQ.WJZz-6QYnm0EZPzZKX2fnGypMpU')
+bot.run('TOKEN HERE')
